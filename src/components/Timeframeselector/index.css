@@ -1,0 +1,18 @@
+.time-frame-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+select{
+    width: 100px;
+    margin-top: 5px;
+    padding: 1px;
+}
+label{
+    margin-right: 10px;
+    color: #f25416;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Roboto;
+}
